@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TelApp/static/css/main.a14f5e27.css",
-    "main.js": "/TelApp/static/js/main.b63b0bc6.js",
+    "main.js": "/TelApp/static/js/main.d5be5191.js",
     "static/js/787.e937e151.chunk.js": "/TelApp/static/js/787.e937e151.chunk.js",
     "index.html": "/TelApp/index.html",
     "main.a14f5e27.css.map": "/TelApp/static/css/main.a14f5e27.css.map",
-    "main.b63b0bc6.js.map": "/TelApp/static/js/main.b63b0bc6.js.map",
+    "main.d5be5191.js.map": "/TelApp/static/js/main.d5be5191.js.map",
     "787.e937e151.chunk.js.map": "/TelApp/static/js/787.e937e151.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a14f5e27.css",
-    "static/js/main.b63b0bc6.js"
+    "static/js/main.d5be5191.js"
   ]
 }
